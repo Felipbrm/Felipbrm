@@ -112,15 +112,15 @@ Exploração de projetos utilizando **IA, automação e reconhecimento de padrõ
 <div align="center">
 
 <a href="https://github.com/Felipbrm">
-<img src="https://img.shields.io/badge/GitHub-Felipbrm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://br.linkedin.com/in/felipe-ribeiro-gomes-7371551a1">
-<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Ribeiro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/felipbrm/">
-<img src="https://img.shields.io/badge/Instagram-@felipbrm-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
