@@ -88,11 +88,8 @@ Exploração de projetos utilizando **IA, automação e reconhecimento de padrõ
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipbrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipbrm&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Felipbrm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipbrm&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
