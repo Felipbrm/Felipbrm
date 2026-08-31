@@ -96,7 +96,7 @@ Exploração de soluções utilizando inteligência artificial, automação e re
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
+<img src="[https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight](https://github.com/Felipbrm)" />
 
 </div>
 
@@ -129,11 +129,11 @@ Meu objetivo é evoluir constantemente como desenvolvedor, participar de projeto
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Felipbrm">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://br.linkedin.com/in/felipe-ribeiro-gomes-7371551a1">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
